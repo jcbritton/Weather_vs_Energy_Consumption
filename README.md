@@ -17,11 +17,11 @@ The team used the same features and target to test predictions:
 - Features: tmin, tmax, tavg, year, month, state_Texas
 - Target: coal
 
-
-
-
-
-
+#### KEY OBSERVATIONS: 
+- Weather data serves as a decent predictor of energy consumption, as indicated by the models' predictive capabilities.
+- Monthly weather trends reveal that average temperature patterns correlate with energy consumption, highlighting the influence of seasonal changes.
+- Weather temperatures—both hot and cold—are likely to impact on future energy consumption, necessitating further analysis to understand their effects.
+- Of the models used (ARIMA, Prophet, Random Forest, LSTM, XGBoost), XGBoost performed the best against the dataset. 
 
 Source for usweather_month_1981-2023.csv: Weather Data: https://asmith.ucdavis.edu/data/prism-weather
 
