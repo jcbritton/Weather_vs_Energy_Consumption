@@ -2,6 +2,7 @@
 ## Predicting Energy Consumption based on Weather Forecasts
 #### Team Members: Chris Kellam, Eric Lidiak, Matthew Smith, Molly Fox, Jason Britton
 DESCRIPTION: Create a predictive model based on historical weather and energy consumption data to forecast energy consumption based on weather variables such as minimum, maximum and average temperature, state, and month of year. 
+
 RESEARCH QUESTIONS: 
 - What types of historical data are available for weather and energy consumption?
 - Is weather data a good predictor of energy consumption?
