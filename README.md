@@ -1,5 +1,5 @@
 # Final Project - Team 2
-## Predicting Energy Consumption based on Weather Forecasts
+## Predicting Energy Consumption based on Weather Forecast Data
 ### Team Members: Chris Kellam, Eric Lidiak, Matthew Smith, Molly Fox, Jason Britton
 #### DESCRIPTION: Create a predictive model based on historical weather and energy consumption data to forecast energy consumption based on weather variables such as minimum, maximum and average temperature, state, and month of year. 
 
